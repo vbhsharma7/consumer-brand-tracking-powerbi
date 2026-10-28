@@ -1,0 +1,1 @@
+Raw rows: 7209\nDuplicate ResponseID rows: 0\nDuplicate business-grain rows flagged: 9\nInvalid satisfaction values flagged: 3\nUnknown ResponseStatus values: 0\nClean rows: 7198\nRows removed: 11

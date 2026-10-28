@@ -1,0 +1,5 @@
+QuestionID,QuestionCode,QuestionText,MetricType,QuestionType
+1,AWARE,Have you heard of this brand?,Awareness,Single choice
+2,CONSIDER,Would you consider buying this brand?,Consideration,Single choice
+3,PURCHASE,Have you purchased this brand in the last 3 months?,Purchase,Single choice
+4,SATISFACTION,How satisfied are you with this brand?,Satisfaction,Rating 1-5
